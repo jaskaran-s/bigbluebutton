@@ -7,6 +7,6 @@ building and running
 ---
 ```bash
 cd akka-bbb-transcode/
-sbt clean
+sbt clean**
 sbt run
 ```
